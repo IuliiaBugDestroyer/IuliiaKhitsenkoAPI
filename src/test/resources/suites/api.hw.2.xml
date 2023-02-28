@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API_HW">
+  <test name="API_HW">
+    <classes>
+      <class name="TrelloBoardTests"></class>
+      <class name="TrelloListTests"></class>
+      <class name="TrelloCardTests"></class>
+    </classes>
+  </test>
+</suite>
